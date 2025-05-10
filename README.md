@@ -1,0 +1,1 @@
+# hackintosh-i7_6700
