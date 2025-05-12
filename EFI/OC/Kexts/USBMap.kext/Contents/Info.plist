@@ -58,10 +58,10 @@
 					<key>PRT10</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>3</integer>
+						<integer>0</integer>
 						<key>port</key>
 						<data>
-						EQAAAA==
+						DAAAAA==
 						</data>
 					</dict>
 					<key>PRT11</key>
@@ -70,7 +70,7 @@
 						<integer>3</integer>
 						<key>port</key>
 						<data>
-						EwAAAA==
+						EQAAAA==
 						</data>
 					</dict>
 					<key>PRT12</key>
@@ -79,7 +79,7 @@
 						<integer>3</integer>
 						<key>port</key>
 						<data>
-						FAAAAA==
+						EwAAAA==
 						</data>
 					</dict>
 					<key>PRT13</key>
@@ -88,10 +88,19 @@
 						<integer>3</integer>
 						<key>port</key>
 						<data>
-						FQAAAA==
+						FAAAAA==
 						</data>
 					</dict>
 					<key>PRT14</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>3</integer>
+						<key>port</key>
+						<data>
+						FQAAAA==
+						</data>
+					</dict>
+					<key>PRT15</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>3</integer>
@@ -175,7 +184,7 @@
 				</dict>
 			</dict>
 			<key>model</key>
-			<string>iMac17,1</string>
+			<string>iMac18,3</string>
 		</dict>
 	</dict>
 	<key>OSBundleRequired</key>
