@@ -10,7 +10,6 @@
 - CPU:     Intel Core i7-6700 Skylake-S
 - GPU:     AMD Radeon RX 550
 - SSD:     Samsung SSD 850 EVO 120GB SATA-III
-- HDD:     Hitachi HTS725032A9A364 320GB SATA-III
 
 引用源：
 
