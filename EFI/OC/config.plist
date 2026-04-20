@@ -1111,16 +1111,6 @@
 				<key>TextMode</key>
 				<false/>
 			</dict>
-			<dict>
-				<key>Enabled</key>
-				<true/>
-				<key>Name</key>
-				<string>srv</string>
-				<key>Path</key>
-				<string>PciRoot(0x0)/Pci(0x17,0x0)/Sata(0x0,0xFFFF,0x0)/HD(1,GPT,DBC9414D-3FB0-4437-8D52-92E21929FB6C,0x28,0x64000)/\EFI\debian\grubx64.efi</string>
-				<key>TextMode</key>
-				<false/>
-			</dict>
 		</array>
 		<key>Security</key>
 		<dict>
